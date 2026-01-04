@@ -1,19 +1,14 @@
-# Mern-Ecommerce-website 
-[![Generic badge](https://img.shields.io/badge/Responsive-Yes-<COLOR>.svg)](https://eastclothing.herokuapp.com/) 
-## E-Commerce Website Using MERN STACK. 
+# Ecommerce-website 
+This project is a full-stack E-Commerce platform developed using the MERN stack. It is designed to efficiently manage both the customer interface and the admin panel. 
+The application is built using the following technologies:
 
+MongoDB
+Express.js
+React.js
+Node.js
+Chakra UI
+Redux
 
-
-#### The main objetif behind this projet was to build an Ecommerce website that handles both sides client and admin using the next technologies :  
-
- 1. Mongo Db  
- 
- 2. Expressjs  
- 
- 3. Reactjs  
- 4. Nodejs  
- 5. Chakra Ui  
- 6. Redux  
 
 Here is a Demo : [Demo](https://eastclothing.herokuapp.com/)
 
